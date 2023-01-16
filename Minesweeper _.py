@@ -2,6 +2,7 @@
 #исп-ем tkinter, а не pygame
 #1. создаем поле, с меню и контурами
 
+sasha = 'done'
 
 import tkinter as tk
 
